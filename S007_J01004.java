@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class s7_J01004 {
+public class S007_J01004 {
     public static boolean isPrime(long n) {
         if (n < 2) return false;
         if (n == 2) return true;
