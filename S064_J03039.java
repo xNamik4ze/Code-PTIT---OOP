@@ -16,5 +16,6 @@ public class S064_J03039 {
                 System.out.println("NO");
             }
         }
+        sc.close();
     }    
 }
