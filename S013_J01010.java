@@ -33,5 +33,6 @@ public class S013_J01010 {
                 System.out.println(res);
             }
         }
+        sc.close();
     }
 }
