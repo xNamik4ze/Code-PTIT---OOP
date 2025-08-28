@@ -16,5 +16,6 @@ public class S018_J01016 {
         } else {
             System.out.println("NO");
         }
+        sc.close();
     }
 }
