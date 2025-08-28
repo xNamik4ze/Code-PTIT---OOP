@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class s12_J01009 {
+public class S012_J01009 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long n = sc.nextLong();

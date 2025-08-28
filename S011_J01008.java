@@ -22,7 +22,6 @@ public class s11_J01008 {
                 System.out.print(n + "(1)" );
             }
             System.out.println();
-
         }
         sc.close();
     }
