@@ -1,3 +1,8 @@
+/*
+Dữ liệu văn bản chứa trong file Hello.txt
+Yêu cầu đọc nội dung từ file văn bản Hello.txt và in kết quả ra màn hình.
+ */
+
 import java.io.File;
 import java.util.Scanner;
 
