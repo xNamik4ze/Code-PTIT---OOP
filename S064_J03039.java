@@ -1,3 +1,7 @@
+/*
+Cho hai số nguyên dương a và b không quá 500 chữ số. Hãy kiểm tra xem a chia hết cho b hoặc b chia hết cho a hay không.
+ */
+
 import java.util.Scanner;
 import java.math.BigInteger;
 
