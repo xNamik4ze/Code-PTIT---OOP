@@ -1,3 +1,8 @@
+/*
+Cho độ dài hai cạnh của hình chữ nhật. Giá trị không quá 104.  
+Viết chương trình tính chu vi và diện tích của hình chữ nhật đó. Nếu dữ liệu không hợp lệ (chiều dài hoặc chiều rộng ≤ 0 thì in ra số 0) 
+ */
+
 import java.util.Scanner;
 
 public class S004_J01001 {
