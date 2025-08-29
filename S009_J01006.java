@@ -1,6 +1,4 @@
 /*
- * TÍNH SỐ FIBONACCI
-
 Dãy số Fibonacci được định nghĩa theo công thức như sau:
 F1 = 1
 F2 = 1
