@@ -1,3 +1,7 @@
+/*
+Hãy phân tích một số nguyên dương thành tích các thừa số nguyên tố.
+ */
+
 import java.util.Scanner;
 
 public class S011_J01008 {
