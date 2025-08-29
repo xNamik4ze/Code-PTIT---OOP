@@ -1,6 +1,7 @@
 /*
 Viết chương trình tính tổng S = 1 + 1.2 + 1.2.3 + ... + 1.2.3...n
  */
+
 import java.util.Scanner;
 
 public class S012_J01009 {
