@@ -1,10 +1,9 @@
 /*
- * SỐ NGUYÊN TỐ
-
 Viết chương trình kiểm tra một số nguyên dương có phải số nguyên tố hay không.
 Dòng đầu của dữ liệu vào ghi số bộ test. Mỗi dòng tiếp theo có một nguyên dương không quá 9 chữ số.
 Kết quả in ra YES nếu đó là số nguyên tố, in ra NO nếu ngược lại.
  */
+
 import java.util.Scanner;
 
 public class S007_J01004 {
