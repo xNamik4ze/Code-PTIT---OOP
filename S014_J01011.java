@@ -1,3 +1,7 @@
+/*
+Tìm bội số chung nhỏ nhất và ước số chung lớn nhất của hai số nguyên dương a, b.
+ */
+
 import java.util.Scanner;
 import java.math.BigInteger;
 
