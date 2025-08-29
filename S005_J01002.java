@@ -1,3 +1,8 @@
+/*
+Cho số nguyên dương N. 
+Hãy tính S = 1 + 2 + ... + N
+ */
+
 import java.util.Scanner;
 
 public class S005_J01002 {
