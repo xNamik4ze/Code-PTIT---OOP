@@ -23,6 +23,6 @@ public class S019_J01017 {
             long n = sc.nextLong();
             System.out.println(checkAdjacetDigit(n) ? "YES" : "NO");
         }
+        sc.close();
     }
-    
 }
