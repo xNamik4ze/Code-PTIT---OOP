@@ -2,7 +2,7 @@
 Một số được gọi là “tam phân” nếu chỉ có các chữ số 0,1,2. 
 Nhập vào một số nguyên dương không quá 9 chữ số, hãy kiểm tra xem đó có phải số tam phân hay không.
  Dòng đầu là số bộ test, mỗi dòng tiếp theo ghi một số cần kiểm tra. 
-Nếu đúng in ra YES, nếu sai in ra NO.
+Nếu đúng in ra YES, nếu sai in ra NO. 
  */
 
 import java.util.Scanner;
@@ -29,4 +29,4 @@ public class S023_J01024 {
         }
         sc.close();
     }
- }
+}
