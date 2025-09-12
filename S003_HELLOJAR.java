@@ -76,6 +76,7 @@ class PaymentController {
         String ruleName = sc.nextLine();
         double price = sc.nextDouble();
         sc.nextLine();
+        sc.close();
         return new Invoice(new Student(studentId, studentName), subjects, new Rule(ruleId, ruleName, price));
     }
 }
